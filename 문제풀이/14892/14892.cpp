@@ -5,7 +5,7 @@ using namespace std;
 
 string wheel[5];
 int turn;
-// 3½Ã index´Â 2, 9½Ã index´Â 6
+// 3ì‹œ indexëŠ” 2, 9ì‹œ indexëŠ” 6
 int direction[5];
 
 void turn_wheel(int wheel_num, int dir)
